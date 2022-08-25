@@ -50,5 +50,5 @@ This is a simple Virtual Keyboard:
 - Make it more User-friendly and adhesive to UX principles
 
 ## Inspiration:
-This Project was inspired by Murtaza's Workshop - Robotics and AI channel's video: https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
+This Project was inspired by 'Murtaza's Workshop - Robotics and AI''s video: https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
 
