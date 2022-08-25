@@ -27,7 +27,7 @@ This is a simple Virtual Keyboard:
 
 ## Screenshots:
 ### Keyboard:
-![Keyboard]([https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/keyboard.PNG)
+![Keyboard](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/keyboard.PNG)
 ### Howering over a key:
 ![Hover](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/hover.PNG)
 ### Clicking a key: 
@@ -36,6 +36,8 @@ This is a simple Virtual Keyboard:
 ![Backspace](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/back-key.PNG)
 ### Textbox:
 ![Textbox](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/text.PNG)
+### Typing on Notepad Demo:
+![Notepad Demo](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/notepad.mp4)
 
 ## Future Work:
 - Ability to repeat a character consecutive
