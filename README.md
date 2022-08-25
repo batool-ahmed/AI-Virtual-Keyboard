@@ -37,7 +37,7 @@ This is a simple Virtual Keyboard:
 ### Textbox:
 ![Textbox](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/text.PNG)
 ### Typing on Notepad Demo:
-![Notepad Demo](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/notepad.mp4)
+![Notepad Demo](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/notepad-demo.gif)
 
 ## Future Work:
 - Ability to repeat a character consecutive
