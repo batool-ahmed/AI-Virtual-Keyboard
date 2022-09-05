@@ -37,7 +37,7 @@ This is a simple Virtual Keyboard:
 ### Textbox:
 ![Textbox](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/text.PNG)
 ### Typing on Notepad Demo:
-![Notepad Demo](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/notepad-demo.gif)
+![Notepad Demo](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/notepad-demo-short.gif)
 
 <img src="https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/notepad-demo.gif" alt="Compressed Car" width="400" >
 
