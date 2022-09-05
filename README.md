@@ -39,6 +39,8 @@ This is a simple Virtual Keyboard:
 ### Typing on Notepad Demo:
 ![Notepad Demo](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/notepad-demo.gif)
 
+<img src="https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/notepad-demo.gif" alt="Compressed Car" width="400" >
+
 ## Future Work:
 - Ability to repeat a character consecutive
 - Adjust time latency between clicks
