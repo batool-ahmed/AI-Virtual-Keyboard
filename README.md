@@ -38,7 +38,7 @@ This is a simple Virtual Keyboard:
 ![Textbox](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/text.PNG)
 ### Typing on Notepad Demo:
 ![Notepad Demo](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/notepad-demo.gif)
-<img src="https://github.com/Adnan-Asif/3D-Optimal-Path-Planinng-and-Compression/blob/main/imgs/car2_gif.gif" alt="Compressed Car" width="400" >
+<img src="[https://github.com/Adnan-Asif/3D-Optimal-Path-Planinng-and-Compression/blob/main/imgs/car2_gif.gif](https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/notepad-demo.gif)" alt="Notepad Demo" >
 
 ## Future Work:
 - Ability to repeat a character consecutive
