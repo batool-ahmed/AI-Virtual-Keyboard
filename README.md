@@ -42,7 +42,7 @@ This is a simple Virtual Keyboard:
 <img src="https://github.com/batool-ahmed/AI-Virtual-Keyboard/blob/main/images/notepad-demo.gif" alt="Compressed Car" width="400" >
 
 ## Future Work:
-- Ability to repeat a character consecutive
+- Ability to repeat a character consecutively
 - Adjust time latency between clicks
 - Add more characters and keys
 - Add the ability to switch between lower and upper case
